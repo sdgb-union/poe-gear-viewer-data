@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-02-27T00:00:00.000Z",
+  "source": "legacy_db.public.streamers",
+  "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "206871f14ad714c23e075962dfbdf38d",
+      "poeAccount": "arserina#5429",
+      "desc": "아르세리나",
+      "updatedAt": "2026-02-18 08:55:17.455699+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "952e7d21b36d75675894f97e4975bf9f",
+      "poeAccount": "lee840914#4115",
+      "desc": "이선생",
+      "updatedAt": "2026-02-18 08:55:05.083369+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "7fc9290b7a7538116e41f119934d4540",
+      "poeAccount": "chaduk5787#2463",
+      "desc": "차덕",
+      "updatedAt": "2026-02-18 08:54:40.49501+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "dd50eaba32f85a59bba55ace25abe6f4",
+      "poeAccount": "DH_POE#7466",
+      "desc": "톡식맨",
+      "updatedAt": "2026-02-18 08:54:23.133592+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "5668dc8d852f99ab1d81bd24089b0716",
+      "poeAccount": "farmerB#2165",
+      "desc": "파머비",
+      "updatedAt": "2026-02-18 08:54:09.259617+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "0bb66c53d9435da1e87b4d8ab47fb1cf",
+      "poeAccount": "namsancoffee#1968",
+      "desc": "포이지",
+      "updatedAt": "2026-02-18 08:53:57.402428+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4600a7ee5e91559465817f192c8ccbdb",
+      "poeAccount": "seominugi#1944",
+      "desc": "서미누기",
+      "updatedAt": "2026-02-18 08:53:34.717829+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "888bdc1e2fbe68322574cbe883b34ee4",
+      "poeAccount": "ham_90#0061",
+      "desc": "혜미",
+      "updatedAt": "2026-02-18 08:52:56.480067+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "0d51a279557107b5b040327a8fef46fe",
+      "poeAccount": "Twobyul#7829",
+      "desc": "투별",
+      "updatedAt": "2026-02-18 08:52:41.853599+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "7d4823dfb8a6b240d2c0ad9300588fc1",
+      "poeAccount": "EasyBabi#7895",
+      "desc": "이지바비",
+      "updatedAt": "2026-02-18 08:52:26.020016+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c0879e746bb53ae852381b6f5ae1447f",
+      "poeAccount": "qweas2#3448",
+      "desc": "까까모리",
+      "updatedAt": "2026-02-18 08:52:12.067605+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "778e31a9550ac0c17fd20c2c0dcf44f5",
+      "poeAccount": "Chaos_W#2442",
+      "desc": "싸뽀쭈어",
+      "updatedAt": "2026-02-18 08:50:21.686644+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "25b206796cd65c6f7c73565cc1c29ad4",
+      "poeAccount": "chkcjswo7#5217",
+      "desc": "뀨튜브",
+      "updatedAt": "2026-02-18 08:50:02.197558+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "337cbef97635ec7034bd4c879b2403f8",
+      "poeAccount": "Nangmyun#0904",
+      "desc": "김냉면",
+      "updatedAt": "2026-02-18 08:49:48.71055+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "e12f8c8ed9925b297a496431929bcdb1",
+      "poeAccount": "rrqnrl2#4755",
+      "desc": "게이머비누",
+      "updatedAt": "2026-02-18 08:49:36.564794+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "78e97578e5d05d33e890416299a2916e",
+      "poeAccount": "R0NA#2883",
+      "desc": "로나",
+      "updatedAt": "2026-02-18 08:48:57+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "eca15d2adbee346e82a647904c1559fd",
+      "poeAccount": "UCONDUIT#4334",
+      "desc": "스탠다드QK",
+      "updatedAt": "2026-02-18 08:43:07+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "bbbe06569e9685685217825ba53765c6",
+      "poeAccount": "stero2d#2708",
+      "desc": "스테로이드",
+      "updatedAt": "2026-02-18 08:42:37+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6bc83d2a18d722a0b4d03917bde007d8",
+      "poeAccount": "zellddo#4704",
+      "desc": "젤또",
+      "updatedAt": "2026-02-18 04:30:32.247354+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "02d1a4a872512b6587ab30cf771d2bb2",
+      "poeAccount": "tori4058#6439",
+      "desc": "토리센세",
+      "updatedAt": "2026-02-18 02:35:32+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "9e731707f6524b88436c5b3ede3a9848",
+      "poeAccount": "GeniusMAD#5047",
+      "desc": "지니어스매드",
+      "updatedAt": "2026-02-18 01:37:08+00"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "35a097a68406f71dec046f49b7b8798d",
+      "poeAccount": "hantung#6332",
+      "desc": "한퉁",
+      "updatedAt": "2026-02-17 15:55:10.518614+00"
+    }
+  ]
+}
