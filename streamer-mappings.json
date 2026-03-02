@@ -4,6 +4,18 @@
   "entries": [
     {
       "platform": "chzzk",
+      "channelId": "f859aca877c6b5ec123bd088ce91ddc0",
+      "poeAccount": "dwlite#5332",
+      "desc": "엎드려잠"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "1ff11e0373bce067cabd8c43c523c4c6",
+      "poeAccount": "GoAirDrop#1953",
+      "desc": "AirDrop"
+    },
+    {
+      "platform": "chzzk",
       "channelId": "206871f14ad714c23e075962dfbdf38d",
       "poeAccount": "arserina#5429",
       "desc": "아르세리나"
