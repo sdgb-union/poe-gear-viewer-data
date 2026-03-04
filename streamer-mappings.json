@@ -1,7 +1,31 @@
 {
-  "schemaVersion": 3,
-  "generatedAt": "2026-03-01T00:00:00.000Z",
+  "schemaVersion": 5,
+  "generatedAt": "2026-03-05T00:00:00.000Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "0f59737416652cead3817eddaf98640f",
+      "poeAccount": "mengduck#2915",
+      "desc": "mengduck"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "a332792dc60eb7ad49c47133cac5c95a",
+      "poeAccount": "액션77#4621",
+      "desc": "액션77"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "cc6a3b2c738df3308ee1b6ca6b37a09a",
+      "poeAccount": "겨울대방어#4965",
+      "desc": "겨울대방어"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "d4e40b48ca916769b5e440fca819f38a",
+      "poeAccount": "김겨울#7178",
+      "desc": "김겨울"
+    },
     {
       "platform": "chzzk",
       "channelId": "f859aca877c6b5ec123bd088ce91ddc0",
