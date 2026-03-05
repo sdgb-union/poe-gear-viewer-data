@@ -1,7 +1,31 @@
 {
-  "schemaVersion": 7,
-  "generatedAt": "2026-03-05T12:00:00.000Z",
+  "schemaVersion": 8,
+  "generatedAt": "2026-03-05T13:00:00.000Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "fee1456ef7ffaf37abf19b0b98aa91eb",
+      "poeAccount": "Bangpae92#2121",
+      "desc": "방패92"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "8eac3d6cdac51bbceb794196cd4e6a15",
+      "poeAccount": "Trainner_kaki#3778",
+      "desc": "카키카키"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "9608e8f4ef56ac246efec8d0193d3f0c",
+      "poeAccount": "아캬요#6654",
+      "desc": "Akya"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c529fdff37bb32da6002c84d543027d8",
+      "poeAccount": "skyhunter4#5296",
+      "desc": "모씨a"
+    },
     {
       "platform": "chzzk",
       "channelId": "5f99338051dbfdbc453f918cb389e595",
