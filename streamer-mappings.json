@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 8,
-  "generatedAt": "2026-03-05T13:00:00.000Z",
+  "schemaVersion": 9,
+  "generatedAt": "2026-03-05T14:08:53.508Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -103,7 +103,7 @@
       "channelId": "f1ab767517be2753c3153f1e6f75c05f",
       "poeAccount": "Doit_kor#2271",
       "desc": "두잇"
-    },    
+    },
     {
       "platform": "chzzk",
       "channelId": "0f59737416652cead3817eddaf98640f",
@@ -277,6 +277,48 @@
       "channelId": "7c0205fcc80f37c1bcb67e035e5cee8d",
       "poeAccount": "cosine0517#4895",
       "desc": "김큐팔"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "f7dd686f2327b8d92f90efce845689b3",
+      "poeAccount": "riozio#6470",
+      "desc": "Reim"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "81789c10f7dea344ece2e16366761d90",
+      "poeAccount": "Daisy_96#1989",
+      "desc": "Daisy"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "0c5a0de16e282fa311df79c997e4483c",
+      "poeAccount": "야설화#1049",
+      "desc": "가리비의 게임로그"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "94261091315edf223e0234a5e963c398",
+      "poeAccount": "catseye77#5297",
+      "desc": "catseye77"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "0f1f0c0fe364b645ba99d8498160c87f",
+      "poeAccount": "Chu_B#3234",
+      "desc": "추봉이"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "505fba30fd817fef88d3274f807c4ff0",
+      "poeAccount": "두부부침#5879",
+      "desc": "김김두부"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "1280fc4a572e8a9052a2340a85bfd1a0",
+      "poeAccount": "TheEmperorJakstar#2437",
+      "desc": "작스타"
     }
   ]
 }
