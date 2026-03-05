@@ -4,6 +4,30 @@
   "entries": [
     {
       "platform": "chzzk",
+      "channelId": "5f99338051dbfdbc453f918cb389e595",
+      "poeAccount": "은합#3544",
+      "desc": "은합"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "a5326b7f31c071e972492f53d432d96c",
+      "poeAccount": "또잉공#3233",
+      "desc": "또잉공"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "17fbaf8c36144601018c0c45b582a098",
+      "poeAccount": "이백원_#5732",
+      "desc": "이백원"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "ebe04a33e5964fc45d9cb5c0fc9083aa",
+      "poeAccount": "kimsinS2#1991",
+      "desc": "라그나"
+    },
+    {
+      "platform": "chzzk",
       "channelId": "db975ffd038bd035c7e3d7f5cfbea433",
       "poeAccount": "ltrlona#0749",
       "desc": "엘티알로나"
