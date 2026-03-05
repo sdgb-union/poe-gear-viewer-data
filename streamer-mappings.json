@@ -1,7 +1,61 @@
 {
-  "schemaVersion": 5,
+  "schemaVersion": 6,
   "generatedAt": "2026-03-05T00:00:00.000Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "db975ffd038bd035c7e3d7f5cfbea433",
+      "poeAccount": "ltrlona#0749",
+      "desc": "엘티알로나"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "ef1031076bfecc00b1b5f73263d11047",
+      "poeAccount": "enter_TW#7263",
+      "desc": "엔터 Enter"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "28b56dda3a3c498ba3323dd368fac49b",
+      "poeAccount": "Mollis32#1804",
+      "desc": "평아"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "bfa51aac5f124dde0e32e56ccfe88ca3",
+      "poeAccount": "망랑망랑#4396",
+      "desc": "망랑"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6714a56d90653b3527a6de681ebc312e",
+      "poeAccount": "나계순#4859",
+      "desc": "하이유"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "55b773a2c16ef0d00c7e1e0dd86fd74c",
+      "poeAccount": "릴_드#1317",
+      "desc": "릴드"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "e16108a5a53c1ff0f74baa42fbcd652f",
+      "poeAccount": "backhyun#6209",
+      "desc": "남자는로망"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "55b773a2c16ef0d00c7e1e0dd86fd74c",
+      "poeAccount": "Jisoon1#1415",
+      "desc": "Jisoon"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "f1ab767517be2753c3153f1e6f75c05f",
+      "poeAccount": "Doit_kor#2271",
+      "desc": "두잇"
+    },    
     {
       "platform": "chzzk",
       "channelId": "0f59737416652cead3817eddaf98640f",
