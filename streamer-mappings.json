@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 10,
-  "generatedAt": "2026-03-06T14:08:53.508Z",
+  "schemaVersion": 12,
+  "generatedAt": "2026-03-06T16:47:22.471Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -325,6 +325,18 @@
       "channelId": "950707a8a79cbb50ed42c7744c083f60",
       "poeAccount": "heinejjw#6071",
       "desc": "엠피스"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "59cbccdbc14b3e9318e0d477a35c64c5",
+      "poeAccount": "호러방위대#4342",
+      "desc": "김호러"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "bfcba7e1784ae05b783f4a80b6fcaa2d",
+      "poeAccount": "risey4#4574",
+      "desc": "개굴덱"
     }
   ]
 }
