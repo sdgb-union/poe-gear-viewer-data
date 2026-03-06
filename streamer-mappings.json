@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 9,
-  "generatedAt": "2026-03-05T14:08:53.508Z",
+  "schemaVersion": 10,
+  "generatedAt": "2026-03-06T14:08:53.508Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -319,6 +319,12 @@
       "channelId": "1280fc4a572e8a9052a2340a85bfd1a0",
       "poeAccount": "TheEmperorJakstar#2437",
       "desc": "작스타"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "950707a8a79cbb50ed42c7744c083f60",
+      "poeAccount": "heinejjw#6071",
+      "desc": "엠피스"
     }
   ]
 }
