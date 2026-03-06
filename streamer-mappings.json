@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 12,
-  "generatedAt": "2026-03-06T16:47:22.471Z",
+  "schemaVersion": 13,
+  "generatedAt": "2026-03-07T00:47:22.471Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -337,6 +337,18 @@
       "channelId": "bfcba7e1784ae05b783f4a80b6fcaa2d",
       "poeAccount": "risey4#4574",
       "desc": "개굴덱"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "f0a70e2b08b7e7828bc9b0e294419c75",
+      "poeAccount": "4half2#4462",
+      "desc": "전민화"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "76461c7c286c6b1cc2c796ee2a5b01b4",
+      "poeAccount": "osprey1945#5835",
+      "desc": "새비지"
     }
   ]
 }
