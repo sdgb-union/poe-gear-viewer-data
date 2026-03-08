@@ -1,7 +1,13 @@
 {
-  "schemaVersion": 14,
-  "generatedAt": "2026-03-07T00:47:22.471Z",
+  "schemaVersion": 15,
+  "generatedAt": "2026-03-08T00:47:22.471Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "190a4c4af3f89095a2248bef19093f84",
+      "poeAccount": "gkswodbs12#4284",
+      "desc": "Kuro입니다"
+    },
     {
       "platform": "chzzk",
       "channelId": "fee1456ef7ffaf37abf19b0b98aa91eb",
