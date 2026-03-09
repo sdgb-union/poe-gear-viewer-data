@@ -1,7 +1,31 @@
 {
-  "schemaVersion": 15,
-  "generatedAt": "2026-03-08T00:47:22.471Z",
+  "schemaVersion": 16,
+  "generatedAt": "2026-03-08T20:47:22.471Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "4608aff4a15f1d879de25044bbdf2dee",
+      "poeAccount": "ehqkraos#0413",
+      "desc": "도박맨"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "d534e69d7d6a3ce309b4c78ec0e39589",
+      "poeAccount": "OrientalBear#2921",
+      "desc": "동양곰"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "49413f0d03bc04d306f5253eb5e644b4",
+      "poeAccount": "pooseoby#5141",
+      "desc": "푸서비"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6a15de04cb25a8d6d59f43c596fb7037",
+      "poeAccount": "릴리아느#5255",
+      "desc": "릴리나봉"
+    },
     {
       "platform": "chzzk",
       "channelId": "190a4c4af3f89095a2248bef19093f84",
