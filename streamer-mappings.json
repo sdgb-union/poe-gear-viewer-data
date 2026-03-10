@@ -1,7 +1,19 @@
 {
   "schemaVersion": 16,
-  "generatedAt": "2026-03-08T20:47:22.471Z",
+  "generatedAt": "2026-03-10T20:47:22.471Z",
   "entries": [
+    {
+      "platform": "chzzk",
+      "channelId": "0777acbb5ba7e4580870a027e0bdfe56",
+      "poeAccount": "너클즈#2585",
+      "desc": "일발"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "aa847cbd6e13b50434daaa279238e260",
+      "poeAccount": "winter#3617",
+      "desc": "동이리오너라"
+    },
     {
       "platform": "chzzk",
       "channelId": "4608aff4a15f1d879de25044bbdf2dee",
