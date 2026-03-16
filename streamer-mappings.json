@@ -1,6 +1,6 @@
 {
   "schemaVersion": 18,
-  "generatedAt": "2026-03-10T20:47:22.471Z",
+  "generatedAt": "2026-03-16T08:07:46.128Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -238,12 +238,6 @@
     },
     {
       "platform": "chzzk",
-      "channelId": "0d51a279557107b5b040327a8fef46fe",
-      "poeAccount": "Twobyul#7829",
-      "desc": "투별"
-    },
-    {
-      "platform": "chzzk",
       "channelId": "7d4823dfb8a6b240d2c0ad9300588fc1",
       "poeAccount": "EasyBabi#7895",
       "desc": "이지바비"
@@ -397,6 +391,126 @@
       "channelId": "76461c7c286c6b1cc2c796ee2a5b01b4",
       "poeAccount": "osprey1945#5835",
       "desc": "새비지"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "3cd51d9cb1dde566c5629b1dcebdf57b",
+      "poeAccount": "아치#4028",
+      "desc": "아치"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6b786a1606e4140f166e1b7d53ee1bfd",
+      "poeAccount": "TencyTV#1646",
+      "desc": "텐시89"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "13066778f53a1e08e7df56579b69b907",
+      "poeAccount": "해밀이#0723",
+      "desc": "해밀이"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "a30574005473d2edce78cb61792b63d2",
+      "poeAccount": "goodkoo#5646",
+      "desc": "플젝티비"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "ad0b94be3a3366eb2a0282f2309ff5f0",
+      "poeAccount": "시앞#6711",
+      "desc": "시앞"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "8414921d3832f2ea0faed6291600c415",
+      "poeAccount": "유라짱#4887",
+      "desc": "유ㄹr"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "b68ba95b8a14caa658bb022d0d158eed",
+      "poeAccount": "Retron1994#0373",
+      "desc": "레트론"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "f6cb89952e296657fbbc2a3b5aca89ec",
+      "poeAccount": "LuxuryK_#3823",
+      "desc": "럭케"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "7d636975844c2d62594139342728d302",
+      "poeAccount": "DJBL3ND#5921",
+      "desc": "재칼OG"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "723a55623d37eea133aa26332557a8f3",
+      "poeAccount": "빛천희#0027",
+      "desc": "천희tv"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "183fd62a1766c813c3edba93e60e0397",
+      "poeAccount": "깡누#7824",
+      "desc": "깡누"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "57813be36f704e6a63a3084f588ec690",
+      "poeAccount": "회복칸#7804",
+      "desc": "힐칸"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "78583f78e5f1b5a1926f8736aa0fb08b",
+      "poeAccount": "lieta#4589",
+      "desc": "리에타"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "a921f9685458d59714a2e6fb2179ce01",
+      "poeAccount": "체리모카#1078",
+      "desc": "달콩냥"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "5c5823c2ca89ad8f2fe9c3dedef22630",
+      "poeAccount": "rainymo0d1#6430",
+      "desc": "News1"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "2d56a90737dc6a5680624814c7ac4671",
+      "poeAccount": "김후인#6731",
+      "desc": "김후인"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4e81ec644ffc7efedc67a158a7e8273c",
+      "poeAccount": "순대만#6217",
+      "desc": "순대냥"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "419e95e63a0d7d73e2c6351eb3de5fb9",
+      "poeAccount": "sinchai#1797",
+      "desc": "꽃와재"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "ade1230cd0a258a3c24326f68537fb0e",
+      "poeAccount": "클레어덕구#7029",
+      "desc": "허접 토끼"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4d421e9e1979d4a52be1c3fac236facf",
+      "poeAccount": "원숭이우끼끼#4262",
+      "desc": "불검"
     }
   ]
 }
