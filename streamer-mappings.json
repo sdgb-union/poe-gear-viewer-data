@@ -1,6 +1,6 @@
 {
   "schemaVersion": 18,
-  "generatedAt": "2026-03-16T08:07:46.128Z",
+  "generatedAt": "2026-03-23T13:07:36.861Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -511,6 +511,168 @@
       "channelId": "4d421e9e1979d4a52be1c3fac236facf",
       "poeAccount": "원숭이우끼끼#4262",
       "desc": "불검"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "80556e63920e80bbc17ca6aaa48456d0",
+      "poeAccount": "날아라못난#0214",
+      "desc": "meirang"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6731b581a3132a618dc114d1f34df122",
+      "poeAccount": "_코끼리#4148",
+      "desc": "바베큐코끼리"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "b6bb7fef627aa70f356ba803dc0a5a94",
+      "poeAccount": "stylemate#0877",
+      "desc": "별이슬골짜기"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "acd4641299f4b707875f0c27bfc140ed",
+      "poeAccount": "vovopo#3388",
+      "desc": "보보포"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "fc7ee7bd314a361512342899adea6fdc",
+      "poeAccount": "또로리야#5301",
+      "desc": "빵돌이랑"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4997514a910750abae60e6295231a21a",
+      "poeAccount": "happilin#3566",
+      "desc": "하필인"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "cd8b2e4916730838c280357ad8c88473",
+      "poeAccount": "Muranieum#5983",
+      "desc": "Muranieum"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4656f9be4b2d16989c953bdd31582832",
+      "poeAccount": "leeyoung486#2769",
+      "desc": "middleageTom"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c83362f5503d69c9be80ef5b2472d36b",
+      "poeAccount": "rester04#3561",
+      "desc": "김멜피"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "7c91d4b91a8f980cd6b717bac3a8c7a6",
+      "poeAccount": "도키_#5157",
+      "desc": "도키"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "fd0db569b3f8adff8d7c66cfe2f6e379",
+      "poeAccount": "투어버스#3988",
+      "desc": "투어버스"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "43664b55e57a3dde67fb1c8a5e86a31e",
+      "poeAccount": "FlagTV#7010",
+      "desc": "플래그티비"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "78be814e26f259055cc48fe3d12be783",
+      "poeAccount": "그영웅#6145",
+      "desc": "개개로"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6ff435514692971c23ce8923799097c9",
+      "poeAccount": "김길현#4775",
+      "desc": "밀키 milki"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "3e4bfa782fc3bdb8843ac9af91cbc79a",
+      "poeAccount": "알파겔#2393",
+      "desc": "알파겔"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "1c0f6147c9a630d5e446c6a3f6299477",
+      "poeAccount": "920815#5344",
+      "desc": "Dalek달렉"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "4b2699de4ae6e468ac27121ca9a345a7",
+      "poeAccount": "포아이#3044",
+      "desc": "포아이"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "d955503038615d0d25bcf309ec774711",
+      "poeAccount": "에르리안#5147",
+      "desc": "에르리안"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "40c2de2a4bfc31a0f27813160affd8f9",
+      "poeAccount": "tw1137#1472",
+      "desc": "꿀주니"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c41e968675bdf1e7321e9f74c74b3670",
+      "poeAccount": "dkfjghghgh#5607",
+      "desc": "미쳐버린인노"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "e5026a25a9fa7044f50b48b400135742",
+      "poeAccount": "amino3dayo#5955",
+      "desc": "소라미 하루"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "6b256ecfdb9f359245bd983fd6e104d6",
+      "poeAccount": "PerfectBlossom#7634",
+      "desc": "Seoann"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c0d69bb44799915e320cee62ecf7eab6",
+      "poeAccount": "머먹띠#0476",
+      "desc": "염동현"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "a0396bcde69e99efb5f58a9011317225",
+      "poeAccount": "알파카나무#0147",
+      "desc": "타마ㅋ"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "519755b1f892259820d8147648ebff65",
+      "poeAccount": "뮤니엘#1675",
+      "desc": "Meun1el"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "f6b5490d530b2a8cd2fae10f240a121b",
+      "poeAccount": "웃싸#2676",
+      "desc": "웃싸"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "952ce44b031f3a82e49616a3ffa307be",
+      "poeAccount": "댄디가이#0801",
+      "desc": "헬로밍구"
     }
   ]
 }
