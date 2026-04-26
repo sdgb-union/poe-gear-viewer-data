@@ -1,6 +1,6 @@
 {
   "schemaVersion": 18,
-  "generatedAt": "2026-03-23T13:07:36.861Z",
+  "generatedAt": "2026-04-26T03:18:29.877Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -673,6 +673,48 @@
       "channelId": "952ce44b031f3a82e49616a3ffa307be",
       "poeAccount": "댄디가이#0801",
       "desc": "헬로밍구"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "e1dadc337581fd9b5fb5eb25ca455410",
+      "poeAccount": "dotori22#2494",
+      "desc": "dotori0110"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "c3aec02c8d996ff259c3382ea8ccce6f",
+      "poeAccount": "songjunseo#6203",
+      "desc": "songjunseo"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "bdf06bfc5f94837ee1ed418b775fb1b8",
+      "poeAccount": "뉸새#8192",
+      "desc": "뉸새"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "31f6215f6dc1a6053df108684f1617cd",
+      "poeAccount": "티리아스#3142",
+      "desc": "티리아스"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "77d03d4eafb8d394589cd10a535b4c03",
+      "poeAccount": "unfinished#3615",
+      "desc": "시드shed"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "efe944050378d3d237531e4d7c6678a5",
+      "poeAccount": "ccCure#4331",
+      "desc": "Cure"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "103014f037d6db7c9825fcc8371eea02",
+      "poeAccount": "끝없는밤#5333",
+      "desc": "끝밤"
     }
   ]
 }
