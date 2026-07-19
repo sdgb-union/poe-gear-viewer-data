@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 18,
-  "generatedAt": "2026-04-26T03:18:29.877Z",
+  "schemaVersion": 19,
+  "generatedAt": "2026-07-19T10:00:56.165819Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -715,6 +715,12 @@
       "channelId": "103014f037d6db7c9825fcc8371eea02",
       "poeAccount": "끝없는밤#5333",
       "desc": "끝밤"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "3a64c4fb49160338deb69b70a1b3e377",
+      "poeAccount": "rahamim#0406",
+      "desc": "강아지댕"
     }
   ]
 }
