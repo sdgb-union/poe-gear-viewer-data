@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 20,
-  "generatedAt": "2026-07-20T08:25:32.356661Z",
+  "schemaVersion": 21,
+  "generatedAt": "2026-07-20T08:49:13.413212Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -727,6 +727,12 @@
       "channelId": "5044e2bd2ec7aeccb32e7b8e2b23e07a",
       "poeAccount": "kimmandu#2663",
       "desc": "김만두12"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "8a5fc0dec74718540f517aa1219d8a72",
+      "poeAccount": "Twitch_HOJIN#0473",
+      "desc": "호진리"
     }
   ]
 }
