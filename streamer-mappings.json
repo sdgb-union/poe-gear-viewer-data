@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 19,
-  "generatedAt": "2026-07-19T10:00:56.165819Z",
+  "schemaVersion": 20,
+  "generatedAt": "2026-07-20T08:25:32.356661Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -721,6 +721,12 @@
       "channelId": "3a64c4fb49160338deb69b70a1b3e377",
       "poeAccount": "rahamim#0406",
       "desc": "강아지댕"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "5044e2bd2ec7aeccb32e7b8e2b23e07a",
+      "poeAccount": "kimmandu#2663",
+      "desc": "김만두12"
     }
   ]
 }
