@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 22,
-  "generatedAt": "2026-07-21T12:37:14.707834Z",
+  "schemaVersion": 23,
+  "generatedAt": "2026-07-21T12:43:04.361592Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -739,6 +739,12 @@
       "channelId": "74538a9a45a9215a6aa53d810e94850d",
       "poeAccount": "TheLongRoadHome#1889",
       "desc": "다레소"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "9f3496822bd3140615c21f9d7484aa3d",
+      "poeAccount": "현튜브의게임채널#0454",
+      "desc": "게임하는현님"
     }
   ]
 }
