@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 21,
-  "generatedAt": "2026-07-20T08:49:13.413212Z",
+  "schemaVersion": 22,
+  "generatedAt": "2026-07-21T12:37:14.707834Z",
   "entries": [
     {
       "platform": "chzzk",
@@ -733,6 +733,12 @@
       "channelId": "8a5fc0dec74718540f517aa1219d8a72",
       "poeAccount": "Twitch_HOJIN#0473",
       "desc": "호진리"
+    },
+    {
+      "platform": "chzzk",
+      "channelId": "74538a9a45a9215a6aa53d810e94850d",
+      "poeAccount": "TheLongRoadHome#1889",
+      "desc": "다레소"
     }
   ]
 }
